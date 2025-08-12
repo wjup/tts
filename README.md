@@ -12,27 +12,13 @@
 - 📥 **支持下载** - 生成的音频可直接下载为 MP3 格式
 - 🔗 **API 兼容** - 兼容 OpenAI TTS API 格式
 
-## 🚀 快速开始
+## 🚀 一键部署
 
-### 部署到 Cloudflare Workers
+### 点击按钮，一键部署到 CloudFlare Workers,
 
-1. **创建 Worker**
-   ```bash
-   # 使用 Wrangler CLI
-   wrangler create ai-voice-magic
-   ```
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/wangwangit/tts)
 
-2. **复制代码**
-   - 将 `index.js` 的内容复制到你的 Worker 中
 
-3. **部署**
-   ```bash
-   wrangler deploy
-   ```
-
-4. **访问服务**
-   - 前端页面：`https://your-worker.your-subdomain.workers.dev/`
-   - API 接口：`https://your-worker.your-subdomain.workers.dev/v1/audio/speech`
 
 ## 🎯 使用方法
 
@@ -200,5 +186,6 @@ MIT License
 - 技术问题答疑和交流社群
 
 ---
+
 
 **让文字开口说话，让创意更有声音！** 🎵
