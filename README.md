@@ -175,6 +175,7 @@ MIT License
 
 - Microsoft Edge TTS 提供语音合成服务
 - Cloudflare Workers 提供无服务器计算平台
+- 参考项目: https://github.com/pyvideotrans/tts-pyvideotrans2
 
 ## 📞 联系我们
 
@@ -189,3 +190,4 @@ MIT License
 
 
 **让文字开口说话，让创意更有声音！** 🎵
+
