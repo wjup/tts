@@ -29,6 +29,3 @@ name = "tts-voice-magic-staging"
 [triggers]
 crons = []
 
-# 资源限制
-[limits]
-cpu_ms = 50000
